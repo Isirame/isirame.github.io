@@ -1,13 +1,13 @@
 locale: "en-US"
-title: &my_name "Alex Gonçalves"
+title: &my_name "Isirame Omofuma"
 masthead_title: "My Many Lives"
 subtitle: "in a Few Words"
 title_separator: "|"
 name: *my_name
 description: "My personal website—projects, news articles, computer code, and educational resources"
 baseurl: ""
-url: "https://alexgonca.github.io"
-repository: "alexgonca/alexgonca.github.io"
+url: "https://isirame.github.io"
+repository: "isirame/isirame.github.io"
 atom_feed:
   hide: true
 
