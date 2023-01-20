@@ -2,15 +2,4 @@
 layout: single
 classes: wide
 ---
-My hybrid background in computer science and sociology has proven to be
-an invaluable asset for studying digitally mediated human interactions.
-Now I want to share that knowledge with aspiring communicators and scientists.
-
-As a PhD candidate at Columbia University and formerly a researcher at the MIT Media Lab,
-I have investigated the role of social media in the rise of new cultural paradigms.
-That still constitutes an important part of my research agenda.
-
-In these pages, you will find an outline of my many lives as a [scholar](researcher),
-a [developer](developer), an [educator](educator), and a [reporter](journalist). 
-The interplay of communication and technology is
-the common thread running through all those experiences.
+My research has centered on motor control improvement in subjects with impairments of the motor control system. This work ranges over many areas of knowledge including in (i.) the identification and classification of movement, (ii.) design and construction of exoskeletons that rehabilitate movement, (iii.) transcutaneous spinal cord stimulation, (iv.) human movement experimentation. I thus have competencies in machine design, programming, data analysis and mechatronics. Please check out my projects to see how I have applied these.
