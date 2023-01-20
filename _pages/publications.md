@@ -7,15 +7,15 @@ toc_sticky: true
 
 ## Journal Publications
 
-R. M. Carrera, I. Omofuma, B. Yasin and S. K. Agrawal, "The Effect of Transcutaneous Spinal Cord Stimulation on Standing Postural Control in Healthy Adults," in IEEE Robotics and Automation Letters, 2022, doi: [10.1109/LRA.2022.3185370] (10.1109/LRA.2022.3185370).
+R. M. Carrera, I. Omofuma, B. Yasin and S. K. Agrawal, "The Effect of Transcutaneous Spinal Cord Stimulation on Standing Postural Control in Healthy Adults," in IEEE Robotics and Automation Letters, 2022, doi: [10.1109/LRA.2022.3185370](https://doi.org/10.1109/LRA.2022.3185370).
 
-Collin D. Bowersock, Tanvi Pisolkar, Isirame Omofuma, Tatiana Luna, Moiz Khan, Victor Santamaria, Joel Stein, Sunil Agrawal, Susan J. Harkema & Enrico Rejc (2022) Robotic upright stand trainer (RobUST) and postural control in individuals with spinal cord injury, The Journal of Spinal Cord Medicine, DOI: [10.1080/10790268.2022.2069532] (10.1080/10790268.2022.2069532)
+Collin D. Bowersock, Tanvi Pisolkar, Isirame Omofuma, Tatiana Luna, Moiz Khan, Victor Santamaria, Joel Stein, Sunil Agrawal, Susan J. Harkema & Enrico Rejc (2022) Robotic upright stand trainer (RobUST) and postural control in individuals with spinal cord injury, The Journal of Spinal Cord Medicine, DOI: [10.1080/10790268.2022.2069532](https://doi.org/10.1080/10790268.2022.2069532)
 
-Luna TD, Santamaria V, Omofuma I, Khan MI, Agrawal SK. Postural Control Strategies in Standing with Handrail Support and Active Assistance from Robotic Upright Stand Trainer (RobUST). IEEE Trans Neural Syst Rehabil Eng. 2021;29:1424-1431. doi: [10.1109/TNSRE.2021.3097301]( 10.1109/TNSRE.2021.3097301). Epub 2021 Jul 26. PMID: 34264829
+Luna TD, Santamaria V, Omofuma I, Khan MI, Agrawal SK. Postural Control Strategies in Standing with Handrail Support and Active Assistance from Robotic Upright Stand Trainer (RobUST). IEEE Trans Neural Syst Rehabil Eng. 2021;29:1424-1431. doi: [10.1109/TNSRE.2021.3097301](https://doi.org/10.1109/TNSRE.2021.3097301). Epub 2021 Jul 26. PMID: 34264829
 
-Moiz Khan, Tatiana Luna, Victor Santamaria, Isirame Omofuma, Dario Martelli, Enrico Rejc, Joel Stein, Susan Harkema, Sunil Agrawal, "Stand Trainer with Applied Forces at the Pelvis and Trunk: Response to Perturbations and Assist-As-Needed Support," in IEEE Transactions on Neural Systems and Rehabilitation Engineering
+Moiz Khan, Tatiana Luna, Victor Santamaria, Isirame Omofuma, Dario Martelli, Enrico Rejc, Joel Stein, Susan Harkema, Sunil Agrawal, "Stand Trainer with Applied Forces at the Pelvis and Trunk: Response to Perturbations and Assist-As-Needed Support," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 27, no. 9, pp. 1855-1864, Sept. 2019, doi: [10.1109/TNSRE.2019.2933381](https://doi.org/10.1109/TNSRE.2019.2933381).
 
-Bishop, Lauri PT, DPT, PhD; Omofuma, Isirame; Stein, Joel MD; Agrawal, Sunil PhD; Quinn, Lori PT, EdD Treadmill-Based Locomotor Training with Robotic Pelvic Assist and Visual Feedback: A Feasibility Study, Journal of Neurologic Physical Therapy
+Bishop, Lauri PT, DPT, PhD; Omofuma, Isirame MS; Stein, Joel MD; Agrawal, Sunil PhD; Quinn, Lori PT, EdD. Treadmill-Based Locomotor Training With Robotic Pelvic Assist and Visual Feedback: A Feasibility Study. Journal of Neurologic Physical Therapy 44(3):p 205-213, July 2020. | DOI: [10.1097/NPT.0000000000000317](https://doi.org/10.1097/NPT.0000000000000317)
 
 Isirame Omofuma, Victor Santamaria, Xupeng Ai, Sunil K. Agrawal “Training Postural Balance Control with Pelvic Force Field at the Boundary of Instability” under review at in IEEE Transactions on Neural Systems and Rehabilitation Engineering
 
