@@ -3,7 +3,7 @@ layout: splash
 classes: wide
 author_profile: true
 header:
-  overlay_image: "/assets/images/City_and_river.jpg"
+  overlay_image: "/assets/images/City_and_river.png"
 ---
  
 {% include sidebar.html %} 
