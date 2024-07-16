@@ -7,6 +7,8 @@ toc_sticky: true
 
 ## Journal Publications
 
+Omofuma I, Carrera R, King-Ori J, Agrawal SK. The effect of transcutaneous spinal cord stimulation on the balance and neurophysiological characteristics of young healthy adults. Wearable Technologies. 2024;5:e3. doi:[10.1017/wtc.2023.24](https://doi.org/10.1017/wtc.2023.24)
+
 R. M. Carrera, I. Omofuma, B. Yasin and S. K. Agrawal, "The Effect of Transcutaneous Spinal Cord Stimulation on Standing Postural Control in Healthy Adults," in IEEE Robotics and Automation Letters, 2022, doi: [10.1109/LRA.2022.3185370](https://doi.org/10.1109/LRA.2022.3185370).
 
 Collin D. Bowersock, Tanvi Pisolkar, Isirame Omofuma, Tatiana Luna, Moiz Khan, Victor Santamaria, Joel Stein, Sunil Agrawal, Susan J. Harkema & Enrico Rejc (2022) Robotic upright stand trainer (RobUST) and postural control in individuals with spinal cord injury, The Journal of Spinal Cord Medicine, DOI: [10.1080/10790268.2022.2069532](https://doi.org/10.1080/10790268.2022.2069532)
