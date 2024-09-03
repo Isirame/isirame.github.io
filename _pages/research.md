@@ -15,11 +15,13 @@ The Robotic Stand Trainer (RObUST) is a cable-driven robotic exoskeleton for pos
 With a group of colleagues at the ROAR Lab, I designed, and built this device along with its software control system. 
 
 <div class="video-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/LRBBPVcUZ24?si=jjPkFBORT1jL9vf_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/LRBBPVcUZ24?si=jjPkFBORT1jL9vf_" title="Stand Trainer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
 ![RobUST Architecture](/assets/images/RobUST_Architecture.png)
+
+
 
 ---
 <br><br>
@@ -37,5 +39,12 @@ And post activation depression:
 <!-- ### Exploring the effects of TSCS applied alone 
 
 ### Exploring the effects of TSCS applied with activity training -->
+
+
+## Motion Tracking with IMUs (Xsens)
+
+## TPAD
+
+## Building the Stand Trainer
 
 
